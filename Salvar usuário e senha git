@@ -1,0 +1,5 @@
+Comando de 8 horas
+$ git config --global credential.helper 'cache --timeout=28800'
+
+Comando permanente
+$ git config --global credential.helper cache
